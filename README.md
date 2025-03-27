@@ -1,4 +1,4 @@
-### **Hi, I’m Oriel Sanchez **
+### Hi, I’m Oriel Sanchez
 🎓 Math-CS @ UCSD
 🦀 Rust · ♟️ Chess · ⌨️ Neovim
 

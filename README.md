@@ -1,16 +1,14 @@
-## Hi there 👋
+### **Hi, I’m Oriel Sanchez **
+🎓 Math-CS @ UCSD
+🦀 Rust · ♟️ Chess · ⌨️ Neovim
 
-<!--
-**orielsanchez/orielsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Code · Solve · Optimize**
 
-Here are some ideas to get you started:
+I like building fast, efficient systems and exploring the intersection of math and CS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔧 Current Stack:**  
+- **Languages:** Rust, Python, C++
+- **Tools:** Neovim, Git, Linux
+- **Learning:** Compilers, Cryptography, Operating Systems
+
+:wq

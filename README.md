@@ -6,12 +6,12 @@
 
 **Code · Solve · Optimize**
 
-I like building fast, efficient systems and exploring the intersection of math and CS.
+I like building fast, efficient systems and exploring the intersection of Math and CS.
 
 **🔧 Current Stack:**  
 - **Languages:** Rust, Python, C++
-- **Tools:** Neovim, Git, Linux
-- **Learning:** Compilers, Cryptography, Operating Systems
+- **Tools:** Neovim, Linux
+- **Learning:** Quant stuff.
 
 
 

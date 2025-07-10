@@ -13,9 +13,6 @@ I like building fast, efficient systems and exploring the intersection of Math a
 - **Tools:** Neovim, Linux
 - **Learning:** Quant stuff.
 
-**🚀 Recent Project:**  
-[Claude Code Template](https://github.com/orielsanchez/claude-code-template) - Systematic development workflows for AI-assisted coding
-
 ☕ [Support my open source work](https://buymeacoffee.com/orielsanchez)
 
 :wq
